@@ -1,6 +1,6 @@
 fullname = input("Please enter your full name: ")
 
-pascal = fullname.lower().replace(" ", "_")
+pascal = fullname.title().replace(" ", "_")
 
 print("Output: ", pascal)
 
