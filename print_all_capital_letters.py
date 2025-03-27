@@ -2,4 +2,4 @@ name = input("Enter a name: ")
 
 uppercase_name = name.upper()
 
-print("")
+print("Ourput: ", uppercase_name)
